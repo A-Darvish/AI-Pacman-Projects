@@ -79,7 +79,7 @@ The repository is organized as follows:
 
 2. Navigate to the project directory:
    ```bash
-   cd AI_Pacman_Projects
+   cd AI-Pacman-Projects
    ```
 
 3. Run specific modules to test different functionalities:
